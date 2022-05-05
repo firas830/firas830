@@ -1,0 +1,10 @@
+1)Find the next number in the series 125 80 45 20 ....: 10;15;-5;5,10,15,5,-5
+2)How many of the following numbers are divisible by 132? 264 ; 396 ; 462 ; 792 ; 968 ; 2178 ; 5184 ; 6336,7,6,4,5
+3)If a**2 = 12, then a**4 =? 144 ; 72 ; 36 ; 24 ,24,72,144,36
+4)What smallest number should be added to 4456 so that the sum is completely divisible by 6 ?  4;3 ;2,1,4,2,3
+5)How many elements are there in the periodic table? 117;118;119;120,117,118,120,119       
+6)How many zeros are there from 1 to 10000 ? 2893;6587;4528;4875 ,6587,4528,2893,4875
+7)Whichnovel begins; "It was a bright cold day in April; and the clocks were striking thirteen.";1984;1985;1998;1970,1970,1985,1984,1998 
+8)Convert decimal 101 to binary:1101001;1101011;1100111 ;1100101,1101001,1101011,1100101,1100111,
+9)What is the value of 4 in 475? 4; 475;400;40,4,40,400,475
+10)Find the next number in the series 141;137;146;130;155;119;...: 147;168;162;182,147,182,168,162
